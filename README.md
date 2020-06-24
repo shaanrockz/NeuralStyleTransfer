@@ -1,5 +1,5 @@
 # NeuralStyleTransfer
-This project was an assignment for Advance Deep Learning for Computer Graphics in University of Bonn, Summer Semester 2020
+This project was an assignment for the course "Advance Deep Learning for Computer Graphics" at University of Bonn, Summer Semester 2020
 
 ###### Requirement :
 1. PyTorch
