@@ -1,6 +1,5 @@
 import torch
 from PIL import Image
-from noise import noisy
 
 def load_image(filename, size=None, scale=None):
     img = Image.open(filename)
